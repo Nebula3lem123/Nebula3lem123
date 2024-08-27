@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Nebula3lem123
 - 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning Basic Data Structures & Algorithms
-- 💞️ I’m looking to collaborate on CatenaryMaps
+- 🌱 I’m currently learning Software Engineering and Development
 - 📫 How to reach me: twitter @nebula3lem123 or discord @nebula3lem123_7167
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I also advocate for transit and urbanism online!
