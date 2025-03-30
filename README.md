@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Nebula3lem123
 - 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning Software Engineering and Development
-- 📫 How to reach me: twitter @nebula3lem123 or discord @nebula3lem123_7167
-- 😄 Pronouns: he/him
+- 🌱 I’m currently learning Software Engineering
+- 📫 How to reach me:  discord @nebula3lem123_7167 or bluesky @nebula3lem123.bsky.social
 - ⚡ Fun fact: I also advocate for transit and urbanism online!
 
 <!---
